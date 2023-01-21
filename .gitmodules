@@ -1,0 +1,3 @@
+[submodule "FunctionalAnalyisis"]
+	path = FunctionalAnalyisis
+	url = https://github.com/mirea-pmi/FunctionalAnalysis.git
