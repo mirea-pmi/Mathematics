@@ -1,3 +1,6 @@
 [submodule "FunctionalAnalyisis"]
 	path = FunctionalAnalyisis
 	url = https://github.com/mirea-pmi/FunctionalAnalysis.git
+[submodule "AlgorithmsAndComplexityTheory"]
+	path = AlgorithmsAndComplexityTheory
+	url = https://github.com/mirea-pmi/AlgorithmsAndComplexityTheory.git
