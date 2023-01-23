@@ -4,3 +4,6 @@
 [submodule "AlgorithmsAndComplexityTheory"]
 	path = AlgorithmsAndComplexityTheory
 	url = https://github.com/mirea-pmi/AlgorithmsAndComplexityTheory.git
+[submodule "BasicMath"]
+	path = BasicMath
+	url = https://github.com/mirea-pmi/BasicMath.git
