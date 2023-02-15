@@ -7,3 +7,6 @@
 [submodule "BasicMath"]
 	path = BasicMath
 	url = https://github.com/mirea-pmi/BasicMath.git
+[submodule "PossibilityTheory"]
+	path = PossibilityTheory
+	url = https://github.com/mirea-pmi/PossibilityTheory.git
